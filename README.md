@@ -2,6 +2,6 @@
 About-
 Members- 1)Mohd Aftab khan
                  2)Apeksha Parge
-                 3)Amit Talgaonkar
+                 3)Amit Talgaonkar(https://github.com/amittal29)
                  4) Raman Khelge
 THANKS TO SHAHWAT TIWARI KAGGLE-- https://lnkd.in/djJfYQFD . #kaggle
