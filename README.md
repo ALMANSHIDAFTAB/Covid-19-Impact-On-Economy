@@ -1,3 +1,7 @@
 # Covid-19-Impact-On-Economy
-About
+About-
+Members- 1)Mohd Aftab khan
+                 2)Apeksha Parge
+                 3)Amit Talgaonkar
+                 4) Raman Khelge
 THANKS TO SHAHWAT TIWARI KAGGLE-- https://lnkd.in/djJfYQFD . #kaggle
